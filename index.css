@@ -1,0 +1,91 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.jumbotron {
+    background-color: whitesmoke;
+}
+
+#about {
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+#exp {
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+#edu {
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+#aa {
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+#skill {
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+#project {
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+#contact {
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+#ref {
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+#name {
+    margin-top: 0px;
+}
+
+#pic {
+    border: 1px solid rgba(184, 184, 184, 0.842);
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+}
+
+.container .row {
+    border: 10px solid whitesmoke;
+    border-radius: 10px;
+}
+
+body {
+    font-size: 20px;
+}
+
+.topic {
+    font-style: italic;
+}
+
+.date {
+    font-style: italic;
+}
+
+.notice {
+    font-weight: bolder;
+}
+
+:any-link:hover {
+    font-style: italic;
+}
+
+#info {
+    font-size: 18px;
+}
+
+.refer {
+    padding-left: 15px;
+}
