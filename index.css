@@ -1,11 +1,19 @@
+/* allow for smooth scrolling on webpage */
 html {
     scroll-behavior: smooth;
 }
 
+/* change background colour of jumbotron (heading block of webpage) */
 .jumbotron {
     background-color: whitesmoke;
 }
 
+/* align top of name with picture */
+#name {
+    margin-top: 0px;
+}
+
+/* align id headers with the rest of the content */
 #about {
     padding-left: 15px;
     font-weight: bold;
@@ -46,10 +54,7 @@ html {
     font-weight: bold;
 }
 
-#name {
-    margin-top: 0px;
-}
-
+/* move picture to align with columns */
 #pic {
     border: 1px solid rgba(184, 184, 184, 0.842);
     border-radius: 20px;
